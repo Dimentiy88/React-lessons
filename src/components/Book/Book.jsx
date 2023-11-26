@@ -1,4 +1,4 @@
-import css from './Book.module.scss';
+import css from './Book.module.css';
 import { ReactComponent as IconHeart } from '../../assets/icons/heart.svg';
 
 export const Book = ({ title, author, year, genre, favourite, cover }) => {

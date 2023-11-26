@@ -1,3 +1,4 @@
+import React from 'react';
 import { Book } from 'components/Book/Book';
 import { Heading } from './components/Heading/Heading';
 
